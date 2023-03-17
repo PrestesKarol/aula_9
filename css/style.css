@@ -1,0 +1,29 @@
+
+.desafio1 {
+    color: #f58742;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.desafio2 {
+    color: #f58742;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+    color: #5cb8ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+ul {
+    list-style-type: square;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#fundoazulefontenova {
+    background-color: rgb(34, 113, 179);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
